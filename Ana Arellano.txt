@@ -1,0 +1,10 @@
+Experience
+
+Ruby - Basic usage
+Rails - Non
+Unit Testing - JUnit, XMLUnit, Unit.js and others
+Test Coverage - Basic to non. I used a tool call PIT once.
+Code analysis - Medium knowledge. PyCharm, Eclipse, TOAD and others
+Agile development -Scrum
+What do you expect from the course?
+Learn more about this frameworks, methodologies and languages that we are going to use. Use the experience of collaborating with my peers in another city to get all the possible knowledge.
