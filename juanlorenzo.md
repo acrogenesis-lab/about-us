@@ -5,9 +5,9 @@ This repo is to have details of the students for the Software Engineering class 
 
 ## Students
 
-* [Juan Lorenzo Gonzalez](./juanlorenzo.md)
+* [Juan Lorenzo Gonzalez](http://github.com/jlogzz)
 
-### Juan Lorenzo Gonzalez(http://github.com/jlogzz)
+### Juan Lorenzo Gonzalez
 
 #### Experience
 

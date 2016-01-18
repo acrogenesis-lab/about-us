@@ -6,6 +6,7 @@ This repo is to have details of the students for the Software Engineering class 
 ## Students
 
 * [Your Name](#your-name)
+* [Juan Lorenzo Gonzalez](./juanlorenzo.md)
 
 ### Your name
 
